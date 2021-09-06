@@ -6,11 +6,13 @@ html{
     height: 100px;
     width: 100px;
     background-color: red;
+    border-radius: 6px;
 }
 .para2{
     height: 300px;
     width: 400px;
-    background-color: cornflowerblue;
+    background-color: blue;
+    border: 2px solid red;
 }
 .para3{
     height: 250px;
