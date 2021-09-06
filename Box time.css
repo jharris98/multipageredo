@@ -1,0 +1,19 @@
+html{
+    background-color: rebeccapurple;
+}
+
+.para{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.para2{
+    height: 300px;
+    width: 400px;
+    background-color: cornflowerblue;
+}
+.para3{
+    height: 250px;
+    width: 600px;
+    background-color: green;
+}
