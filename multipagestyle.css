@@ -1,0 +1,56 @@
+html{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+
+nav{
+
+    color: dodgerblue;
+    background-color: grey;
+    box-sizing: content-box;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding: 20px 18px;
+
+}
+
+a{
+    background-color: lightgray;
+    border-block: solid;
+    border-width: 4px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 15px;
+    padding: 20px 10px;
+}
+
+h1{
+
+    color: black;
+    margin-top: 400px;
+    margin-left: 500px;
+}
+
+.column{
+    float: left;
+    width: 25%;
+    height:100px;
+    padding: 50px 5px 5px;
+    margin: 0 0 0;
+}
+img{
+    margin-right: 1px;
+    margin-bottom: 0;
+    width: 25%;
+    height: 50px;
+    float: left;
+
+}
+
+div{
+    padding-top: 50px;
+}
